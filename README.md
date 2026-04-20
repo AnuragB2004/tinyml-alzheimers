@@ -42,7 +42,7 @@ This project introduces a **TinyML-based pipeline** that enables:
 - ⚖️ Balanced across 4 classes  
 
 ### Dataset Distribution
-(<img width="1966" height="856" alt="fig1_dataset_distribution" src="https://github.com/user-attachments/assets/df784abc-a618-42ff-9785-404181eaa635" />)
+<img width="1966" height="856" alt="fig1_dataset_distribution" src="https://github.com/user-attachments/assets/df784abc-a618-42ff-9785-404181eaa635" />
 
 ---
 
@@ -56,8 +56,7 @@ This project introduces a **TinyML-based pipeline** that enables:
   - Brightness adjustment  
 
 ### Pipeline Visualization
-![Preprocessing](<img width="1347" height="883" alt="fig12_preprocessing" src="https://github.com/user-attachments/assets/45e7ddfa-2109-4966-a05e-a05b81214d8d" /><img width="1387" height="779" alt="fig2_system_architecture" src="https://github.com/user-attachments/assets/f5234b6f-4a60-41dc-b3e7-1c8da1667c21" />
-)
+<img width="1347" height="883" alt="fig12_preprocessing" src="https://github.com/user-attachments/assets/45e7ddfa-2109-4966-a05e-a05b81214d8d" />
 
 ---
 
@@ -74,7 +73,7 @@ Pipeline stages:
 7. ESP32 Deployment  
 
 ### Architecture Diagram
-![Architecture](<img width="1387" height="779" alt="fig2_system_architecture" src="https://github.com/user-attachments/assets/e5912eb8-5d4e-4827-a6fc-9a53803cc995" />)
+<img width="1387" height="779" alt="fig2_system_architecture" src="https://github.com/user-attachments/assets/e5912eb8-5d4e-4827-a6fc-9a53803cc995" />
 
 ---
 
@@ -86,7 +85,7 @@ Pipeline stages:
 - Custom classification head  
 
 ### MobileNetV2
-![MobileNetV2](<img width="1483" height="741" alt="fig3_mobilenetv2" src="https://github.com/user-attachments/assets/31301496-1fd6-416c-8b97-a93295188c25" />)
+<img width="1483" height="741" alt="fig3_mobilenetv2" src="https://github.com/user-attachments/assets/31301496-1fd6-416c-8b97-a93295188c25" />
 
 ---
 
@@ -132,7 +131,7 @@ The model focuses on clinically relevant regions:
 - Entorhinal cortex  
 
 ### Grad-CAM Visualizations
-![GradCAM](<img width="1228" height="743" alt="fig10_gradcam" src="https://github.com/user-attachments/assets/81dbf4fa-27ed-4183-ad57-ec63c7efac49" />)
+<img width="1228" height="743" alt="fig10_gradcam" src="https://github.com/user-attachments/assets/81dbf4fa-27ed-4183-ad57-ec63c7efac49" />
 
 ---
 
@@ -143,7 +142,7 @@ The model focuses on clinically relevant regions:
 - Connectivity: BLE / Wi-Fi  
 
 ### IoT Deployment
-![IoT](<img width="1391" height="803" alt="fig11_iot_deployment" src="https://github.com/user-attachments/assets/65f7c4d8-523e-439c-ae81-b27872504327" />)
+<img width="1391" height="803" alt="fig11_iot_deployment" src="https://github.com/user-attachments/assets/65f7c4d8-523e-439c-ae81-b27872504327" />
 
 ---
 
