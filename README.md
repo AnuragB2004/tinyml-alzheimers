@@ -1,4 +1,3 @@
-<img width="1966" height="856" alt="fig1_dataset_distribution" src="https://github.com/user-attachments/assets/7c740834-0383-4a94-8f7c-132773925156" />
 # 🧠 TinyML-Based Real-Time Alzheimer’s Detection on Edge Devices
 
 > Lightweight, real-time, four-class Alzheimer’s classification using quantized MobileNetV2 deployed on microcontrollers (ESP32)
@@ -43,7 +42,7 @@ This project introduces a **TinyML-based pipeline** that enables:
 - ⚖️ Balanced across 4 classes  
 
 ### Dataset Distribution
-![Dataset](<img width="1966" height="856" alt="fig1_dataset_distribution" src="https://github.com/user-attachments/assets/df784abc-a618-42ff-9785-404181eaa635" />)
+(<img width="1966" height="856" alt="fig1_dataset_distribution" src="https://github.com/user-attachments/assets/df784abc-a618-42ff-9785-404181eaa635" />)
 
 ---
 
